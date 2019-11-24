@@ -11,4 +11,4 @@ jsDelivr + Githubd打造属于自己的免费CDN
 
 ### 例如
 
-我的头像   ![头像](https://cdn.jsdelivr.net/gh/2662419405/CDN@1.0/sh.jpg)
+https://cdn.jsdelivr.net/gh/2662419405/CDN@1.0/sh.jpg ![头像](https://cdn.jsdelivr.net/gh/2662419405/CDN@1.0/sh.jpg)
