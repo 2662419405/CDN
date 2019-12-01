@@ -140,8 +140,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	    { // shake screen
 	        if (POWERMODE.shake) {
 	            var intensity = 1 + 2 * Math.random();
-	            var x = intensity * (Math.random() > 0.5 ? -1 : 1);
-	            var y = intensity * (Math.random() > 0.5 ? -1 : 1);
+	            var x = 0 // intensity * (Math.random() > 0.5 ? -1 : 1);
+	            var y = 0 // intensity * (Math.random() > 0.5 ? -1 : 1);
 	            document.body.style.marginLeft = x + 'px';
 	            document.body.style.marginTop = y + 'px';
 	            setTimeout(function() {
