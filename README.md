@@ -1,5 +1,5 @@
 # CDN
-jsDelivr + Githubd打造属于自己的免费CDN
+jsDelivr + Githubd打造属于自己的免费CDN!
 
 ### 使用
 
