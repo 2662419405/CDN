@@ -1,0 +1,1 @@
+$('.icon-list').append("<div id='shMap'><div>");$('#shMap').html("欢迎来自"+returnCitySN["cname"]+"的朋友"+"<br>您的 IP 是："+returnCitySN["cip"]+"<br>您的 使用的是："+getOSAndBrowser());
