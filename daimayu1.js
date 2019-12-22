@@ -1,5 +1,5 @@
-$(function(){
-	var canvas = document.getElementById("content_canvas");
+//获取画布对象
+    var canvas = document.getElementById("content_canvas");
     //获取画布的上下文
     var context =canvas.getContext("2d");
     var s = window.screen;
@@ -53,5 +53,3 @@ $(function(){
     }
     draw();
     setInterval(draw,35);
-        }
-})
