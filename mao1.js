@@ -15,5 +15,5 @@ var pio = new Paul_Pio({
 			}]
 		},
     "night": "single.night()",
-    "model": ["https://unpkg.com/live2d-widget-model-hijiki/assets/hijiki.model.json"]
+    "model": ["https://cdn.jsdelivr.net/gh/2662419405/CDN/model.json"]
 });
