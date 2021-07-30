@@ -15,4 +15,4 @@
     })
 }
 
-paul_shake(document.getElementById("btn1"), document.getElementById("home"));
+paul_shake(document.getElementById("btn1"), document.getElementById("main"));
